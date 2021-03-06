@@ -1,0 +1,178 @@
+@charset "utf-8";
+
+* {
+			margin: 0;
+			padding: 0;
+		}
+		.header {
+			width: 100%; height: 100px;
+			top: 0; left: 0;
+			background-color: black;
+		}
+		.header h1 {
+			position: absolute;
+			width: 160px; height: 62px;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+		.headerImg { width: 0px; height: 0px; }
+		.header img {
+			height: 86px;
+			display: block;
+			padding-top: 7px;
+		}
+		.disneylogo img {
+			position: absolute;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+		#gnb {
+			position: absolute;
+			top: 30px;
+			right: 0;
+		}
+		#disney {
+			width: 100%; height: 500px;
+			background-image: url('img/disney_back12.png');
+			background-repeat: no-repeat;
+			position: relative;
+			vertical-align: middle;
+		}
+		
+		#disney p {
+			text-align: center;
+		}
+		#marvel {
+			width: 100%; height: 500px;
+			background-image: url('img/disney_back2.png');
+			background-repeat: no-repeat;
+			position: absolute;
+			top: 600px; left:0;
+			vertical-align: middle;
+		}
+		#marvel p {
+			text-align: center;
+		}
+		#starwars {
+			width: 100%; height: 500px;
+			background-image: url('img/disney_back33.png');
+			background-repeat: no-repeat;
+			position: absolute;
+			top: 1100px; left: 0;
+			vertical-align: middle;
+		}
+		#test {
+			position: absolute;
+            top:33%;  left:42%;
+            -webkit-animation: appear 0.5s ease-in-out 1 alternate;
+		}
+		#test2 {
+			position: absolute;
+            top:33%;  left:42%;
+            -webkit-animation: appear 0.5s ease-in-out 1 alternate;
+		}
+		#test3 {
+			position: absolute;
+            top:33%;  left:42%;
+            -webkit-animation: appear 0.5s ease-in-out 1 alternate;
+		}
+		.main ul {
+			font-family: 'Noto Sans KR', sans-serif;
+			position: absolute;
+			margin: 19px;
+			top:58%;  left:37%;
+		}
+		.main li {
+			display: inline;
+			margin: 10px;
+			color: white;
+		}
+		#blue {
+			position: absolute;
+			float: right;
+			right: 0; top: 0;
+			margin: 25px 0 0 0;
+			width: 150px; height: 50px;
+		}
+		@-webkit-keyframes appear {
+    		0% { opacity: 0.6; top: 60%; }
+    		40% { opacity: 0.9; }
+    		100% { opacity: 1; }
+		}
+		.footer {
+			position: absolute;
+			top: 1600px;
+			width: 100%; height: 48px;
+			background-color: #33332A;
+			border-bottom: 1px solid white;
+		}
+		.footer img {
+			float: left;
+			margin: 15px; margin-left: 55px;
+		}
+		.footer p {
+			position: relative;
+			float: left;
+			color: gray;
+			margin: 18px;
+			font-size: 10px; font-family: 'Hind', sans-serif;
+		}
+		.footer ul {
+			position: relative;
+			float: right;
+			color: gray;
+			margin: 15px;
+			font-size: 12px; font-family: 'Noto Sans KR', sans-serif;
+			list-style-type: none;
+		}
+		.footer li {
+			display: inline;
+			margin: 10px;
+		}
+		.main li a:hover { color: #8E8F91; }
+		.nav li:nth-child(1):hover, .nav li:nth-child(2):hover, .nav li:nth-child(3):hover {
+			text-decoration:underline;
+		 }
+		a {
+			width: 140px; height: 62px;
+			text-decoration: none;
+			color: white;
+		}
+		ul, li {
+			list-style: none;
+		}
+		.nav {
+			font-family: 'Noto Sans KR', sans-serif;
+			font-size: 14.5px;
+			padding: 0;
+			margin: 16px 18px 15px 0;
+		}
+		.nav li:nth-child(1) {
+			margin-right: -15px;
+		}
+		.nav li a {
+			text-decoration: none;
+			display: block;
+			text-align: center;
+		}
+		.nav > li {
+			float: left;
+			margin: 0 -10px;
+		}
+		.sub {
+			position: absolute;
+			opacity: 0;
+			visibility: hidden;
+			z-index: 10000;
+		}
+		.sub > li {
+			margin-top: -25px;
+		}
+		.nav > li:hover .sub {
+			opacity: 1;
+			visibility: visible;
+		}
+		.sub > li > a {
+			font-size: 13px;
+			text-decoration: none;
+		}
