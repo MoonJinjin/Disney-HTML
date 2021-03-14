@@ -188,9 +188,6 @@ ul, li {
 	padding: 0;
 	margin: 14px 28px 15px 0;
 }
-.nav a:last-child {
-	color: white;
-}
 .nav li:first-child {
 	margin-right: -15px;
 }
@@ -200,27 +197,29 @@ ul, li {
 	display: block;
 	text-align: center;
 }
+.nav > li > a:last-child {
+	color: white;
+}
 .nav > li {
 	color: black;
 	float: left;
 	margin: 0 -10px;
 }
 .sub {
-	position: absolute;
 	opacity: 0;
 	visibility: hidden;
+	position: absolute;
 	color: black;
 	width: 95px;
 	margin-left: 20px;
-	box-shadow: 1px 2px 5px lightgray;
-	z-index: 20000;
+	box-shadow: 2px 2px 10px lightgray;
+	background-color: white;
 }
 .sub > li {
 	width: 95px;
-	margin-top: -10px;
+	margin-top: -8px;
 	text-align: center;
 	color: black;
-	background-color: white;
 }
 .sub > li:first-child {
 	padding-top: 20px;
@@ -232,6 +231,11 @@ ul, li {
 }
 .menu1 a:hover, .menu2 a:hover, .menu3 a:hover {
 	color: #1860C9;
+	opacity: 1;
+	visibility: visible;
+}
+.menu4 a {
+	color: white;
 }
 .sub > li > a {
 	font-family: 'Noto Sans KR', sans-serif;

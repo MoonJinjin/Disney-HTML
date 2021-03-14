@@ -33,10 +33,13 @@
 		}
 		#disney {
 			width: 100%; height: 500px;
-			background-image: url('img/disney_back12.png');
-			background-repeat: no-repeat;
+			background-image: url("http://www.disney.co.kr/home/images/main/bg-d.jpg");
+			background-repeat: repeat-y;
+			background-attachment: fixed;
+			background-size: auto 100%;
+			background-position: center;
+			background-image: fixed;
 			position: relative;
-			vertical-align: middle;
 		}
 		
 		#disney p {
@@ -44,8 +47,11 @@
 		}
 		#marvel {
 			width: 100%; height: 500px;
-			background-image: url('img/disney_back2.png');
-			background-repeat: no-repeat;
+			background-image: url("http://www.disney.co.kr/home/images/main/bg-m.jpg");
+			background-repeat: repeat-y;
+			background-attachment: fixed;
+			background-size: auto 100%;
+			background-position: center 55px;
 			position: absolute;
 			top: 600px; left:0;
 			vertical-align: middle;
@@ -55,8 +61,11 @@
 		}
 		#starwars {
 			width: 100%; height: 500px;
-			background-image: url('img/disney_back33.png');
-			background-repeat: no-repeat;
+			background-image: url("http://www.disney.co.kr/home/images/main/bg-s.jpg");
+			background-repeat: repeat-y;
+			background-attachment: fixed;
+			background-size: auto 100%;
+			background-position: center 200px;
 			position: absolute;
 			top: 1100px; left: 0;
 			vertical-align: middle;
