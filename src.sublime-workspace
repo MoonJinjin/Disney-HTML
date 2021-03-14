@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"re",
+				"repeat-y\tbackground-repeat"
+			],
+			[
+				"bas",
+				"background-size\tproperty"
+			],
+			[
+				"dis",
+				"disney"
+			],
+			[
+				"d",
+				"disney"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"a",
+				"auto\tbackground-size"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"v",
+				"visibility\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"te",
+				"translateX()\ttransform"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"data",
+				"dataId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Disney.html",
+			"settings":
+			{
+				"buffer_size": 3525,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 3877,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style2.css",
+			"settings":
+			{
+				"buffer_size": 4058,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style_coco.css",
+			"settings":
+			{
+				"buffer_size": 3883,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Disney_win.html",
+			"settings":
+			{
+				"buffer_size": 3759,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Disney_coco.html",
+			"settings":
+			{
+				"buffer_size": 3492,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git ",
+				"Git: Custom Command"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"g",
+				"Git: Custom Command"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Custom Command"
+			],
+			[
+				"git c",
+				"Git: Custom Command"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git cu",
+				"Git: Custom Command"
+			],
+			[
+				"pack control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 496.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT"
+	],
+	"file_history":
+	[
+		"/C/Users/s2019/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/s2019/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/s2019/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/C/Users/s2019/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT/Disney_Event.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT/style2.css",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu1.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu4.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/animate.css",
+		"/C/Users/s2019/OneDrive/문서/html/0108_천지메인.html",
+		"/C/Users/s2019/OneDrive/문서/html/0109_천지피크닉.html",
+		"/C/Users/s2019/OneDrive/문서/html/0109_천지상하이.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_11.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu3.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/style.css",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/style2.css",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/main.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_2.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_3.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_4.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_5.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_6.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_7.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_8.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_9.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_10.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/menu2_12.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/style3.css",
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT/Disney_coco.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT/Disney.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT/style.css",
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT/Disney_win.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_DISNEY_PROJECT/style",
+		"/C/Users/s2019/OneDrive/문서/html/test.html",
+		"/C/Users/s2019/OneDrive/문서/html/Disney_coco.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_3.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_11.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_12.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_3.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_4.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_10.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_9.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_8.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_7.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_6.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_5.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_4.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2_2.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_2.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star_1.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_STAR_PROJECT/star.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_4.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_3.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_12.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_10.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_11.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_9.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_8.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_7.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_5.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_6.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_4.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_3.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2_2.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_2.html",
+		"/C/Users/s2019/OneDrive/문서/html/star.html",
+		"/C/Users/s2019/OneDrive/문서/html/star_1.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_FIRST_PROJECT/main.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTestResult.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest01.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/MentalTestStyle.css",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest01.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/ColorTestStyle.css",
+		"/C/Users/s2019/OneDrive/문서/html/별자리/star_4.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest25.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest24.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest23.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest22.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest21.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest20.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest19.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest18.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest16.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest03.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest02.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest04.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest05.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest06.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest07.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest08.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest09.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest10.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest11.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest12.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest13.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest14.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest15.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/mentalTest17.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/form-action.php",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/ex.html",
+		"/C/Users/s2019/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest02.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest10.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest09.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest08.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest07.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest06.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest05.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest04.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/colorTest03.html",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/TestStyle.css",
+		"/C/Users/s2019/OneDrive/문서/HTML_TEST_PROJECT/main.html",
+		"/C/Users/s2019/Documents/HTML_TEST_PROJECT/colorTest.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bounceInUp",
+			"}\n",
+			"사람들을"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Disney.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								435
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.3333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style2.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style_coco.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 489.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Disney_win.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1124,
+								1124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 589.333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Disney_coco.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 214.0
+	},
+	"pinned_build_system": "",
+	"project": "src.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
